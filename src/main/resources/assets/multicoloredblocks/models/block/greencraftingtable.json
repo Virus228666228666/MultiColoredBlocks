@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "multicoloredblocks:blocks/greenplanks",
+    "up": "multicoloredblocks:blocks/greencraftingtabletop",
+    "north": "multicoloredblocks:blocks/greencraftingtablefront",
+    "east": "multicoloredblocks:blocks/greencraftingtableside",
+    "south": "multicoloredblocks:blocks/greencraftingtableside",
+    "west": "multicoloredblocks:blocks/greencraftingtablefront",
+    "particle": "multicoloredblocks:blocks/greencraftingtableside"
+  }
+}

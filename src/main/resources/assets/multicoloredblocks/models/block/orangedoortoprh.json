@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "multicoloredblocks:blocks/orangedoorlower",
+        "top": "multicoloredblocks:blocks/orangedoorupper"
+    }
+}

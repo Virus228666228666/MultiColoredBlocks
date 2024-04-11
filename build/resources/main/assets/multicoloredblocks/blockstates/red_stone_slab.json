@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "multicoloredblocks:redslabhalf" },
+        "half=top": { "model": "multicoloredblocks:redslabupper" }
+    }
+}

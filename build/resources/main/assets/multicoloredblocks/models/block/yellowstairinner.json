@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "multicoloredblocks:blocks/YellowPlanks",
+        "top": "multicoloredblocks:blocks/YellowPlanks",
+        "side": "multicoloredblocks:blocks/YellowPlanks"
+    }
+}

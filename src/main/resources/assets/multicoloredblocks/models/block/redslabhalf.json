@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "multicoloredblocks:blocks/redslabtop",
+        "top": "multicoloredblocks:blocks/redslabtop",
+        "side": "multicoloredblocks:blocks/redslabside"
+    }
+}

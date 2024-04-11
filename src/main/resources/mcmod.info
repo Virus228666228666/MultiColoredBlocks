@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "multicoloredblocks",
+    "name": "MultiColored Blocks",
+    "description": "Multicolor block mod",
+    "version": "1.7",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/multicolored-blocks",
+    "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/multicolored-blocks",
+    "authorList": ["V5 MINECRAFT"],
+    "credits": "",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

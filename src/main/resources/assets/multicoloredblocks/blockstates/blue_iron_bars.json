@@ -1,0 +1,32 @@
+{
+    "multipart": [
+        {   "apply": { "model": "multicoloredblocks:blueironbarspostends" }},
+        {   "when": { "north": false, "east": false, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:blueironbarspost" }
+        },
+        {   "when": { "north": true, "east": false, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:blueironbarscap" }
+        },
+        {   "when": { "north": false, "east": true, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:blueironbarscap", "y": 90 }
+        },
+        {   "when": { "north": false, "east": false, "south": true, "west": false },
+            "apply": { "model": "multicoloredblocks:blueironbarscapalt" }
+        },
+        {   "when": { "north": false, "east": false, "south": false, "west": true },
+            "apply": { "model": "multicoloredblocks:blueironbarscapalt", "y": 90 }
+        },
+        {   "when": { "north": true },
+            "apply": { "model": "multicoloredblocks:blueironbarsside" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "multicoloredblocks:blueironbarsside", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "multicoloredblocks:blueironbarssidealt" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "multicoloredblocks:blueironbarssidealt", "y": 90 }
+        }
+    ]
+}
