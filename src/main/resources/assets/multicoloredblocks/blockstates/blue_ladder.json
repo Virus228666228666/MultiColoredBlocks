@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "multicoloredblocks:blueladder" },
+        "facing=east":  { "model": "multicoloredblocks:blueladder", "y": 90 },
+        "facing=south": { "model": "multicoloredblocks:blueladder", "y": 180 },
+        "facing=west":  { "model": "multicoloredblocks:blueladder", "y": 270 }
+    }
+}
