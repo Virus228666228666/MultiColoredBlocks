@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "multicoloredblocks:bluepressureplateup" },
+        "powered=true": { "model": "multicoloredblocks:bluepressureplatedown" }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "multicoloredblocks:blocks/orangeplanks",
+    "up": "multicoloredblocks:blocks/orangecraftingtabletop",
+    "north": "multicoloredblocks:blocks/orangecraftingtablefront",
+    "east": "multicoloredblocks:blocks/orangecraftingtableside",
+    "south": "multicoloredblocks:blocks/orangecraftingtableside",
+    "west": "multicoloredblocks:blocks/orangecraftingtablefront",
+    "particle": "multicoloredblocks:blocks/orangecraftingtableside"
+  }
+}
