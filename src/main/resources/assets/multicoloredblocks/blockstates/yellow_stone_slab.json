@@ -1,6 +1,13 @@
 {
     "variants": {
-        "half=bottom": { "model": "multicoloredblocks:yellowslabhalf" },
-        "half=top": { "model": "multicoloredblocks:yellowslabupper" }
+        "type=bottom": {
+            "model": "multicoloredblocks:block/yellowslabhalf"
+        },
+        "type=double": {
+            "model": "multicoloredblocks:block/yellowslabdouble"
+        },
+        "type=top": {
+            "model": "multicoloredblocks:block/yellowslabupper"
+        }
     }
 }

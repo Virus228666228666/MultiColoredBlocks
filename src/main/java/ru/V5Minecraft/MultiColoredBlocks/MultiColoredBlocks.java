@@ -15,7 +15,7 @@ import ru.V5Minecraft.MultiColoredBlocks.Register.RegisterBlocks;
 public class MultiColoredBlocks {
     private static final Logger LOGGER = LogManager.getLogger();
 
-    public static final ItemGroup tabMultiColoredBlocks = new TabMultiColoredBlocks(ItemGroup.TABS.length, "tabMultiColoredBlocks");
+    public static final TabMultiColoredBlocks tabMultiColoredBlocks = new TabMultiColoredBlocks(ItemGroup.TABS.length, "tabMultiColoredBlocks");
 
     public MultiColoredBlocks() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);

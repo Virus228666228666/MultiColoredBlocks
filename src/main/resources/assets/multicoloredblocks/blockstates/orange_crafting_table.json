@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "multicoloredblocks:orangecraftingtable" }
+    "": {
+      "model": "multicoloredblocks:block/orangecraftingtable"
+    }
   }
 }

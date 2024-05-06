@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "multicoloredblocks:blackwhiteoaklog" }
+    "": {
+      "model": "multicoloredblocks:block/blackwhiteoaklog"
+    }
   }
 }

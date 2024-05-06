@@ -1,5 +1,7 @@
 {
   "variants": {
-    "normal": { "model": "multicoloredblocks:redoaklog" }
+    "": {
+      "model": "multicoloredblocks:block/redoaklog"
+    }
   }
 }

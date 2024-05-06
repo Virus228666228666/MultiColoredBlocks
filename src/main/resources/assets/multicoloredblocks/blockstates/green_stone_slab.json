@@ -1,6 +1,13 @@
 {
     "variants": {
-        "half=bottom": { "model": "multicoloredblocks:greenslabhalf" },
-        "half=top": { "model": "multicoloredblocks:greenslabupper" }
+        "type=bottom": {
+            "model": "multicoloredblocks:block/greenslabhalf"
+        },
+        "type=double": {
+            "model": "multicoloredblocks:block/greenslabdouble"
+        },
+        "type=top": {
+            "model": "multicoloredblocks:block/greenslabupper"
+        }
     }
 }

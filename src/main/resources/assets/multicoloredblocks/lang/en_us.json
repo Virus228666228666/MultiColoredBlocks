@@ -84,5 +84,13 @@
   "block.multicoloredblocks.red_furnace": "Red Furnace",
   "block.multicoloredblocks.green_furnace": "Green Furnace",
   "block.multicoloredblocks.yellow_furnace": "Yellow Furnace",
-  "block.multicoloredblocks.orange_furnace": "Orange Furnace"
+  "block.multicoloredblocks.orange_furnace": "Orange Furnace",
+  "block.multicoloredblocks.red_crafting_table": "Red Crafting Table",
+  "block.multicoloredblocks.orange_crafting_table": "Orange Crafting Table",
+  "block.multicoloredblocks.yellow_crafting_table": "Yellow Crafting Table",
+  "block.multicoloredblocks.green_crafting_table": "Green Crafting Table",
+  "block.multicoloredblocks.lightblue_crafting_table": "Light Blue Crafting Table",
+  "block.multicoloredblocks.blue_crafting_table": "Blue Crafting Table",
+  "block.multicoloredblocks.purple_crafting_table": "Purple Crafting Table",
+  "block.multicoloredblocks.black_white_crafting_table": "Black&White Crafting Table"
 }

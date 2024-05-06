@@ -1,8 +1,8 @@
 {
   "parent": "block/stairs",
   "textures": {
-    "bottom": "multicoloredblocks:blocks/OrangePlanks",
-    "top": "multicoloredblocks:blocks/OrangePlanks",
-    "side": "multicoloredblocks:blocks/OrangePlanks"
+    "bottom": "multicoloredblocks:blocks/orangeplanks",
+    "top": "multicoloredblocks:blocks/orangeplanks",
+    "side": "multicoloredblocks:blocks/orangeplanks"
   }
 }

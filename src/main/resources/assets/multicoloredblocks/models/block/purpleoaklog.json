@@ -1,12 +1,12 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "down": "multicoloredblocks:blocks/PurpleOakLogTop",
-    "up": "multicoloredblocks:blocks/PurpleOakLogTop",
-    "north": "multicoloredblocks:blocks/PurpleOakLogSide",
-    "east": "multicoloredblocks:blocks/PurpleOakLogSide",
-    "south": "multicoloredblocks:blocks/PurpleOakLogSide",
-    "west": "multicoloredblocks:blocks/PurpleOakLogSide",
-    "particle": "multicoloredblocks:blocks/PurpleOakLogSide"
+    "down": "multicoloredblocks:blocks/purpleoaklogtop",
+    "up": "multicoloredblocks:blocks/purpleoaklogtop",
+    "north": "multicoloredblocks:blocks/purpleoaklogside",
+    "east": "multicoloredblocks:blocks/purpleoaklogside",
+    "south": "multicoloredblocks:blocks/purpleoaklogside",
+    "west": "multicoloredblocks:blocks/purpleoaklogside",
+    "particle": "multicoloredblocks:blocks/purpleoaklogside"
   }
 }
