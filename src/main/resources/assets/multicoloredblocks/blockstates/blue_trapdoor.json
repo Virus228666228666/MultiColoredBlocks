@@ -1,20 +1,20 @@
 {
     "variants": {
-        "facing=north,half=bottom,open=false": { "model": "multicoloredblocks:bluetrapdoorbottom" },
-        "facing=south,half=bottom,open=false": { "model": "multicoloredblocks:bluetrapdoorbottom" },
-        "facing=east,half=bottom,open=false": { "model": "multicoloredblocks:bluetrapdoorbottom" },
-        "facing=west,half=bottom,open=false": { "model": "multicoloredblocks:bluetrapdoorbottom" },
-        "facing=north,half=top,open=false": { "model": "multicoloredblocks:bluetrapdoortop" },
-        "facing=south,half=top,open=false": { "model": "multicoloredblocks:bluetrapdoortop" },
-        "facing=east,half=top,open=false": { "model": "multicoloredblocks:bluetrapdoortop" },
-        "facing=west,half=top,open=false": { "model": "multicoloredblocks:bluetrapdoortop" },
-        "facing=north,half=bottom,open=true": { "model": "multicoloredblocks:bluetrapdooropen" },
-        "facing=south,half=bottom,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 180 },
-        "facing=east,half=bottom,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 90 },
-        "facing=west,half=bottom,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 270 },
-        "facing=north,half=top,open=true": { "model": "multicoloredblocks:bluetrapdooropen" },
-        "facing=south,half=top,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 180 },
-        "facing=east,half=top,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 90 },
-        "facing=west,half=top,open=true": { "model": "multicoloredblocks:bluetrapdooropen", "y": 270 }
+        "facing=north,half=bottom,open=false": { "model": "multicoloredblocks:block/bluetrapdoorbottom" },
+        "facing=south,half=bottom,open=false": { "model": "multicoloredblocks:block/bluetrapdoorbottom" },
+        "facing=east,half=bottom,open=false": { "model": "multicoloredblocks:block/bluetrapdoorbottom" },
+        "facing=west,half=bottom,open=false": { "model": "multicoloredblocks:block/bluetrapdoorbottom" },
+        "facing=north,half=top,open=false": { "model": "multicoloredblocks:block/bluetrapdoortop" },
+        "facing=south,half=top,open=false": { "model": "multicoloredblocks:block/bluetrapdoortop" },
+        "facing=east,half=top,open=false": { "model": "multicoloredblocks:block/bluetrapdoortop" },
+        "facing=west,half=top,open=false": { "model": "multicoloredblocks:block/bluetrapdoortop" },
+        "facing=north,half=bottom,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen" },
+        "facing=south,half=bottom,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 180 },
+        "facing=east,half=bottom,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 90 },
+        "facing=west,half=bottom,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 270 },
+        "facing=north,half=top,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen" },
+        "facing=south,half=top,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 180 },
+        "facing=east,half=top,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 90 },
+        "facing=west,half=top,open=true": { "model": "multicoloredblocks:block/bluetrapdooropen", "y": 270 }
     }
 }

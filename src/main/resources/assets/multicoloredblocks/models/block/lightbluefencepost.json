@@ -1,6 +1,6 @@
 {
     "parent": "block/fence_post",
     "textures": {
-        "texture": "multicoloredblocks:blocks/LightBluePlanks"
+        "texture": "multicoloredblocks:blocks/lightblueplanks"
     }
 }

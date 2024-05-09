@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "multicoloredblocks:blocks/GreenPlanks"
+    "all": "multicoloredblocks:blocks/greenplanks"
   }
 }

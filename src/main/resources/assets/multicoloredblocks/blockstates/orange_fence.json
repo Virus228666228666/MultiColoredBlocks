@@ -1,17 +1,17 @@
 {
   "multipart": [
-    {   "apply": { "model": "multicoloredblocks:orangefencepost" }},
+    {   "apply": { "model": "multicoloredblocks:block/orangefencepost" }},
     {   "when": { "north": "true" },
-      "apply": { "model": "multicoloredblocks:orangefenceside", "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/orangefenceside", "uvlock": true }
     },
     {   "when": { "east": "true" },
-      "apply": { "model": "multicoloredblocks:orangefenceside", "y": 90, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/orangefenceside", "y": 90, "uvlock": true }
     },
     {   "when": { "south": "true" },
-      "apply": { "model": "multicoloredblocks:orangefenceside", "y": 180, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/orangefenceside", "y": 180, "uvlock": true }
     },
     {   "when": { "west": "true" },
-      "apply": { "model": "multicoloredblocks:orangefenceside", "y": 270, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/orangefenceside", "y": 270, "uvlock": true }
     }
   ]
 }

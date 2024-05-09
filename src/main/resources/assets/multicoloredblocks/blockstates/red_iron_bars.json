@@ -1,32 +1,32 @@
 {
     "multipart": [
-        {   "apply": { "model": "multicoloredblocks:redironbarspostends" }},
+        {   "apply": { "model": "multicoloredblocks:block/redironbarspostends" }},
         {   "when": { "north": false, "east": false, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:redironbarspost" }
+            "apply": { "model": "multicoloredblocks:block/redironbarspost" }
         },
         {   "when": { "north": true, "east": false, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:redironbarscap" }
+            "apply": { "model": "multicoloredblocks:block/redironbarscap" }
         },
         {   "when": { "north": false, "east": true, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:redironbarscap", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/redironbarscap", "y": 90 }
         },
         {   "when": { "north": false, "east": false, "south": true, "west": false },
-            "apply": { "model": "multicoloredblocks:redironbarscapalt" }
+            "apply": { "model": "multicoloredblocks:block/redironbarscapalt" }
         },
         {   "when": { "north": false, "east": false, "south": false, "west": true },
-            "apply": { "model": "multicoloredblocks:redironbarscapalt", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/redironbarscapalt", "y": 90 }
         },
         {   "when": { "north": true },
-            "apply": { "model": "multicoloredblocks:redironbarsside" }
+            "apply": { "model": "multicoloredblocks:block/redironbarsside" }
         },
         {   "when": { "east": true },
-            "apply": { "model": "multicoloredblocks:redironbarsside", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/redironbarsside", "y": 90 }
         },
         {   "when": { "south": true },
-            "apply": { "model": "multicoloredblocks:redironbarssidealt" }
+            "apply": { "model": "multicoloredblocks:block/redironbarssidealt" }
         },
         {   "when": { "west": true },
-            "apply": { "model": "multicoloredblocks:redironbarssidealt", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/redironbarssidealt", "y": 90 }
         }
     ]
 }

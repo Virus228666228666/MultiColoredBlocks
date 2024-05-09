@@ -14,7 +14,7 @@
   },
   "ambientocclusion": false,
   "textures": {
-    "texture": "multicoloredblocks:blocks/YellowPlanks"
+    "texture": "multicoloredblocks:blocks/yellowplanks"
   },
   "elements": [
     {   "from": [ 6, 0, 0 ],

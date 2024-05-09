@@ -1,32 +1,32 @@
 {
     "multipart": [
-        {   "apply": { "model": "multicoloredblocks:lightblueironbarspostends" }},
+        {   "apply": { "model": "multicoloredblocks:block/lightblueironbarspostends" }},
         {   "when": { "north": false, "east": false, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:lightblueironbarspost" }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarspost" }
         },
         {   "when": { "north": true, "east": false, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:lightblueironbarscap" }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarscap" }
         },
         {   "when": { "north": false, "east": true, "south": false, "west": false },
-            "apply": { "model": "multicoloredblocks:lightblueironbarscap", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarscap", "y": 90 }
         },
         {   "when": { "north": false, "east": false, "south": true, "west": false },
-            "apply": { "model": "multicoloredblocks:lightblueironbarscapalt" }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarscapalt" }
         },
         {   "when": { "north": false, "east": false, "south": false, "west": true },
-            "apply": { "model": "multicoloredblocks:lightblueironbarscapalt", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarscapalt", "y": 90 }
         },
         {   "when": { "north": true },
-            "apply": { "model": "multicoloredblocks:lightblueironbarsside" }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarsside" }
         },
         {   "when": { "east": true },
-            "apply": { "model": "multicoloredblocks:lightblueironbarsside", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarsside", "y": 90 }
         },
         {   "when": { "south": true },
-            "apply": { "model": "multicoloredblocks:lightblueironbarssidealt" }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarssidealt" }
         },
         {   "when": { "west": true },
-            "apply": { "model": "multicoloredblocks:lightblueironbarssidealt", "y": 90 }
+            "apply": { "model": "multicoloredblocks:block/lightblueironbarssidealt", "y": 90 }
         }
     ]
 }

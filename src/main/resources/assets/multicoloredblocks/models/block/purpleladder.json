@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "multicoloredblocks:blocks/PurpleLadder",
-        "texture": "multicoloredblocks:blocks/PurpleLadder"
+        "particle": "multicoloredblocks:blocks/purpleladder",
+        "texture": "multicoloredblocks:blocks/purpleladder"
     },
     "elements": [
         {   "from": [ 0, 0, 15.2 ],

@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "multicoloredblocks:blocks/RedLadder",
-        "texture": "multicoloredblocks:blocks/RedLadder"
+        "particle": "multicoloredblocks:blocks/redladder",
+        "texture": "multicoloredblocks:blocks/redladder"
     },
     "elements": [
         {   "from": [ 0, 0, 15.2 ],

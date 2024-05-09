@@ -1,8 +1,8 @@
 {
     "variants": {
-        "facing=north": { "model": "multicoloredblocks:yellowladder" },
-        "facing=east":  { "model": "multicoloredblocks:yellowladder", "y": 90 },
-        "facing=south": { "model": "multicoloredblocks:yellowladder", "y": 180 },
-        "facing=west":  { "model": "multicoloredblocks:yellowladder", "y": 270 }
+        "facing=north": { "model": "multicoloredblocks:block/yellowladder" },
+        "facing=east":  { "model": "multicoloredblocks:block/yellowladder", "y": 90 },
+        "facing=south": { "model": "multicoloredblocks:block/yellowladder", "y": 180 },
+        "facing=west":  { "model": "multicoloredblocks:block/yellowladder", "y": 270 }
     }
 }

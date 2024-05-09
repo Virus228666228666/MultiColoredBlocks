@@ -1,17 +1,17 @@
 {
   "multipart": [
-    {   "apply": { "model": "multicoloredblocks:blackwhitefencepost" }},
+    {   "apply": { "model": "multicoloredblocks:block/blackwhitefencepost" }},
     {   "when": { "north": "true" },
-      "apply": { "model": "multicoloredblocks:blackwhitefenceside", "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/blackwhitefenceside", "uvlock": true }
     },
     {   "when": { "east": "true" },
-      "apply": { "model": "multicoloredblocks:blackwhitefenceside", "y": 90, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/blackwhitefenceside", "y": 90, "uvlock": true }
     },
     {   "when": { "south": "true" },
-      "apply": { "model": "multicoloredblocks:blackwhitefenceside", "y": 180, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/blackwhitefenceside", "y": 180, "uvlock": true }
     },
     {   "when": { "west": "true" },
-      "apply": { "model": "multicoloredblocks:blackwhitefenceside", "y": 270, "uvlock": true }
+      "apply": { "model": "multicoloredblocks:block/blackwhitefenceside", "y": 270, "uvlock": true }
     }
   ]
 }

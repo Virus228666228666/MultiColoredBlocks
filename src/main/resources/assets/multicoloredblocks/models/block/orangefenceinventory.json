@@ -14,7 +14,7 @@
   },
   "ambientocclusion": false,
   "textures": {
-    "texture": "multicoloredblocks:blocks/OrangePlanks"
+    "texture": "multicoloredblocks:blocks/orangeplanks"
   },
   "elements": [
     {   "from": [ 6, 0, 0 ],

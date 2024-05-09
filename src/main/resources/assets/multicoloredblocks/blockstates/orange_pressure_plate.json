@@ -1,6 +1,6 @@
 {
     "variants": {
-        "powered=false": { "model": "multicoloredblocks:orangepressureplateup" },
-        "powered=true": { "model": "multicoloredblocks:orangepressureplatedown" }
+        "powered=false": { "model": "multicoloredblocks:block/orangepressureplateup" },
+        "powered=true": { "model": "multicoloredblocks:block/orangepressureplatedown" }
     }
 }
