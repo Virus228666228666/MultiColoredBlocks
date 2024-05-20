@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,in_wall=false,open=false,powered=false": { "model": "multicoloredblocks:bluewoodenfencegateclosed", "uvlock": true },
+        "facing=west,in_wall=false,open=false,powered=false":  { "model": "multicoloredblocks:bluewoodenfencegateclosed", "uvlock": true, "y": 90 },
+        "facing=north,in_wall=false,open=false,powered=false": { "model": "multicoloredblocks:bluewoodenfencegateclosed", "uvlock": true, "y": 180 },
+        "facing=east,in_wall=false,open=false,powered=false":  { "model": "multicoloredblocks:bluewoodenfencegateclosed", "uvlock": true, "y": 270 },
+        "facing=south,in_wall=false,open=true,powered=false": { "model": "multicoloredblocks:bluewoodenfencegateopen", "uvlock": true },
+        "facing=west,in_wall=false,open=true,powered=false":  { "model": "multicoloredblocks:bluewoodenfencegateopen", "uvlock": true, "y": 90 },
+        "facing=north,in_wall=false,open=true,powered=false": { "model": "multicoloredblocks:bluewoodenfencegateopen", "uvlock": true, "y": 180 },
+        "facing=east,in_wall=false,open=true,powered=false":  { "model": "multicoloredblocks:bluewoodenfencegateopen", "uvlock": true, "y": 270 },
+        "facing=south,in_wall=true,open=false,powered=false": { "model": "multicoloredblocks:bluewoodenwallgateclosed", "uvlock": true },
+        "facing=west,in_wall=true,open=false,powered=false":  { "model": "multicoloredblocks:bluewoodenwallgateclosed", "uvlock": true, "y": 90 },
+        "facing=north,in_wall=true,open=false,powered=false": { "model": "multicoloredblocks:bluewoodenwallgateclosed", "uvlock": true, "y": 180 },
+        "facing=east,in_wall=true,open=false,powered=false":  { "model": "multicoloredblocks:bluewoodenwallgateclosed", "uvlock": true, "y": 270 },
+        "facing=south,in_wall=true,open=true,powered=false": { "model": "multicoloredblocks:bluewoodenwallgateopen", "uvlock": true },
+        "facing=west,in_wall=true,open=true,powered=false":  { "model": "multicoloredblocks:bluewoodenwallgateopen", "uvlock": true, "y": 90 },
+        "facing=north,in_wall=true,open=true,powered=false": { "model": "multicoloredblocks:bluewoodenwallgateopen", "uvlock": true, "y": 180 },
+        "facing=east,in_wall=true,open=true,powered=false":  { "model": "multicoloredblocks:bluewoodenwallgateopen", "uvlock": true, "y": 270 }
+    }
+}

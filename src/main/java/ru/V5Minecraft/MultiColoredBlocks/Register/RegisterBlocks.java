@@ -27,14 +27,14 @@ public class RegisterBlocks {
     public static Block YellowPlanks = new Wood("yellow_planks");
     public static Block PurplePlanks = new Wood("purple_planks");
     public static Block BlackWhitePlanks = new Wood("black_white_planks");
-    public static Block RedFence = new Fence("red_fence");
-    public static Block LightBlueFence = new Fence("lightblue_fence");
-    public static Block BlueFence = new Fence("blue_fence");
-    public static Block GreenFence = new Fence("green_fence");
-    public static Block OrangeFence = new Fence("orange_fence");
-    public static Block YellowFence = new Fence("yellow_fence");
-    public static Block PurpleFence = new Fence("purple_fence");
-    public static Block BlackWhiteFence = new Fence("black_white_fence");
+    public static Block RedWoodenFence = new Fence("red_wooden_fence");
+    public static Block LightBlueWoodenFence = new Fence("lightblue_wooden_fence");
+    public static Block BlueWoodenFence = new Fence("blue_wooden_fence");
+    public static Block GreenWoodenFence = new Fence("green_wooden_fence");
+    public static Block OrangeWoodenFence = new Fence("orange_wooden_fence");
+    public static Block YellowWoodenFence = new Fence("yellow_wooden_fence");
+    public static Block PurpleWoodenFence = new Fence("purple_wooden_fence");
+    public static Block BlackWhiteWoodenFence = new Fence("black_white_wooden_fence");
     public static Block RedStair = new Stair("red_stair", RedPlanks.getDefaultState());
     public static Block LightBlueStair = new Stair("lightblue_stair", LightBluePlanks.getDefaultState());
     public static Block BlueStair = new Stair("blue_stair", BluePlanks.getDefaultState());
@@ -112,6 +112,14 @@ public class RegisterBlocks {
     public static Block OrangeFurnaceOn = new OrangeFurnace("orangefurnaceon", true);
     public static Block YellowFurnaceOn = new YellowFurnace("yellowfurnaceon", true);
     public static Block PurpleFurnaceOn = new PurpleFurnace("purplefurnaceon", true);
+    public static Block RedWoodenFenceGate = new FenceGate("red_wooden_fence_gate");
+    public static Block OrangeWoodenFenceGate = new FenceGate("orange_wooden_fence_gate");
+    public static Block YellowWoodenFenceGate = new FenceGate("yellow_wooden_fence_gate");
+    public static Block GreenWoodenFenceGate = new FenceGate("green_wooden_fence_gate");
+    public static Block LightBlueWoodenFenceGate = new FenceGate("lightblue_wooden_fence_gate");
+    public static Block BlueWoodenFenceGate = new FenceGate("blue_wooden_fence_gate");
+    public static Block PurpleWoodenFenceGate = new FenceGate("purple_wooden_fence_gate");
+    public static Block BlackWhiteWoodenFenceGate = new FenceGate("black_white_wooden_fence_gate");
 
     public static void register() {
         setRegister(RedPlanks);
@@ -130,14 +138,14 @@ public class RegisterBlocks {
         setRegister(YellowPlanks);
         setRegister(PurplePlanks);
         setRegister(BlackWhitePlanks);
-        setRegister(RedFence);
-        setRegister(LightBlueFence);
-        setRegister(BlueFence);
-        setRegister(GreenFence);
-        setRegister(OrangeFence);
-        setRegister(YellowFence);
-        setRegister(PurpleFence);
-        setRegister(BlackWhiteFence);
+        setRegister(RedWoodenFence);
+        setRegister(LightBlueWoodenFence);
+        setRegister(BlueWoodenFence);
+        setRegister(GreenWoodenFence);
+        setRegister(OrangeWoodenFence);
+        setRegister(YellowWoodenFence);
+        setRegister(PurpleWoodenFence);
+        setRegister(BlackWhiteWoodenFence);
         setRegister(RedStair);
         setRegister(LightBlueStair);
         setRegister(BlueStair);
@@ -215,6 +223,14 @@ public class RegisterBlocks {
         setRegister(OrangeFurnaceOn);
         setRegister(YellowFurnaceOn);
         setRegister(PurpleFurnaceOn);
+        setRegister(RedWoodenFenceGate);
+        setRegister(OrangeWoodenFenceGate);
+        setRegister(YellowWoodenFenceGate);
+        setRegister(GreenWoodenFenceGate);
+        setRegister(LightBlueWoodenFenceGate);
+        setRegister(BlueWoodenFenceGate);
+        setRegister(PurpleWoodenFenceGate);
+        setRegister(BlackWhiteWoodenFenceGate);
     }
 
     @SideOnly(Side.CLIENT)
@@ -235,14 +251,14 @@ public class RegisterBlocks {
         setRender(YellowPlanks);
         setRender(PurplePlanks);
         setRender(BlackWhitePlanks);
-        setRender(RedFence);
-        setRender(LightBlueFence);
-        setRender(BlueFence);
-        setRender(GreenFence);
-        setRender(OrangeFence);
-        setRender(YellowFence);
-        setRender(PurpleFence);
-        setRender(BlackWhiteFence);
+        setRender(RedWoodenFence);
+        setRender(LightBlueWoodenFence);
+        setRender(BlueWoodenFence);
+        setRender(GreenWoodenFence);
+        setRender(OrangeWoodenFence);
+        setRender(YellowWoodenFence);
+        setRender(PurpleWoodenFence);
+        setRender(BlackWhiteWoodenFence);
         setRender(RedStair);
         setRender(LightBlueStair);
         setRender(BlueStair);
@@ -320,6 +336,15 @@ public class RegisterBlocks {
         setRender(OrangeFurnaceOn);
         setRender(YellowFurnaceOn);
         setRender(PurpleFurnaceOn);
+        setRender(RedWoodenFenceGate);
+        setRender(RedWoodenFenceGate);
+        setRender(OrangeWoodenFenceGate);
+        setRender(YellowWoodenFenceGate);
+        setRender(GreenWoodenFenceGate);
+        setRender(LightBlueWoodenFenceGate);
+        setRender(BlueWoodenFenceGate);
+        setRender(PurpleWoodenFenceGate);
+        setRender(BlackWhiteWoodenFenceGate);
     }
 
     private static void setRegister(Block block) {

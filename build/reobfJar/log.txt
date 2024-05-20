@@ -1,4 +1,4 @@
-Args: "--in-jar", "D:\decomp\works\MultiColoredBlocks\build\libs\MultiColoredBlocks-1.12.2-1.8-bug-fix.jar", "--out-jar", "D:\decomp\works\MultiColoredBlocks\build\reobfJar\output.jar", "--srg-in", "D:\decomp\works\MultiColoredBlocks\build\createMcpToSrg\output.tsrg", "--live"
+Args: "--in-jar", "D:\decomp\works\MultiColoredBlocks\build\libs\MultiColoredBlocks-1.12.2-1.9.jar", "--out-jar", "D:\decomp\works\MultiColoredBlocks\build\reobfJar\output.jar", "--srg-in", "D:\decomp\works\MultiColoredBlocks\build\createMcpToSrg\output.tsrg", "--live"
 Classpath: C:\Users\V5MINECRAFT\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.8.3\SpecialSource-1.8.3-shaded.jar
 Classpath: C:\Users\V5MINECRAFT\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12.jar
 Classpath: C:\Users\V5MINECRAFT\.gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar

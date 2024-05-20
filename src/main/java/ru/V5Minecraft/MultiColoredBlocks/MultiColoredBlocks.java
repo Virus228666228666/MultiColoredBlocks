@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import ru.V5Minecraft.MultiColoredBlocks.CreativeTab.TabMultiColoredBlocks;
 import ru.V5Minecraft.MultiColoredBlocks.Proxy.CommonProxy;
 
-@Mod(modid = "multicoloredblocks", name = "MultiColored Blocks", version = "1.12.2-1.8")
+@Mod(modid = "multicoloredblocks", name = "MultiColored Blocks", version = "1.12.2-1.9")
 public class MultiColoredBlocks {
     public static final TabMultiColoredBlocks tabMultiColoredBlocks = new TabMultiColoredBlocks("tabMultiColoredBlocks");
 

@@ -99,14 +99,23 @@ public class TabMultiColoredBlocks extends CreativeTabs {
         items.add(new ItemStack(RegisterBlocks.PurpleLadder));
         items.add(new ItemStack(RegisterBlocks.BlackWhiteLadder));
 
-        items.add(new ItemStack(RegisterBlocks.RedFence));
-        items.add(new ItemStack(RegisterBlocks.OrangeFence));
-        items.add(new ItemStack(RegisterBlocks.YellowFence));
-        items.add(new ItemStack(RegisterBlocks.GreenFence));
-        items.add(new ItemStack(RegisterBlocks.LightBlueFence));
-        items.add(new ItemStack(RegisterBlocks.BlueFence));
-        items.add(new ItemStack(RegisterBlocks.PurpleFence));
-        items.add(new ItemStack(RegisterBlocks.BlackWhiteFence));
+        items.add(new ItemStack(RegisterBlocks.RedWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.OrangeWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.YellowWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.GreenWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.LightBlueWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.BlueWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.PurpleWoodenFence));
+        items.add(new ItemStack(RegisterBlocks.BlackWhiteWoodenFence));
+
+        items.add(new ItemStack(RegisterBlocks.RedWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.OrangeWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.YellowWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.GreenWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.LightBlueWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.BlueWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.PurpleWoodenFenceGate));
+        items.add(new ItemStack(RegisterBlocks.BlackWhiteWoodenFenceGate));
 
         items.add(new ItemStack(RegisterBlocks.RedPressurePlate));
         items.add(new ItemStack(RegisterBlocks.OrangePressurePlate));
