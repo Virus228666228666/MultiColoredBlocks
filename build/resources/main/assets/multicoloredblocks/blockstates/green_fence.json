@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {   "apply": { "model": "multicoloredblocks:block/greenfencepost" }},
+    {   "when": { "north": "true" },
+      "apply": { "model": "multicoloredblocks:block/greenfenceside", "uvlock": true }
+    },
+    {   "when": { "east": "true" },
+      "apply": { "model": "multicoloredblocks:block/greenfenceside", "y": 90, "uvlock": true }
+    },
+    {   "when": { "south": "true" },
+      "apply": { "model": "multicoloredblocks:block/greenfenceside", "y": 180, "uvlock": true }
+    },
+    {   "when": { "west": "true" },
+      "apply": { "model": "multicoloredblocks:block/greenfenceside", "y": 270, "uvlock": true }
+    }
+  ]
+}

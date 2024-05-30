@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "multicoloredblocks:blocks/yellowslabtop",
+        "top": "multicoloredblocks:blocks/yellowslabtop",
+        "side": "multicoloredblocks:blocks/yellowslabside"
+    }
+}

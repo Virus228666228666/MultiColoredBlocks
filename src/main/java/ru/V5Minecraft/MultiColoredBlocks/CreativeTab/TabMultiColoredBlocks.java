@@ -73,13 +73,13 @@ public class TabMultiColoredBlocks extends ItemGroup {
         items.add(new ItemStack(RegisterBlocks.PurpleOakLog.get()));
         items.add(new ItemStack(RegisterBlocks.BlackWhiteOakLog.get()));
 
-        /*items.add(new ItemStack(RegisterBlocks.RedFurnace));
-        items.add(new ItemStack(RegisterBlocks.OrangeFurnace));
-        items.add(new ItemStack(RegisterBlocks.YellowFurnace));
-        items.add(new ItemStack(RegisterBlocks.GreenFurnace));
-        items.add(new ItemStack(RegisterBlocks.LightBlueFurnace));
-        items.add(new ItemStack(RegisterBlocks.BlueFurnace));
-        items.add(new ItemStack(RegisterBlocks.PurpleFurnace));*/
+        items.add(new ItemStack(RegisterBlocks.RedFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.OrangeFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.YellowFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.GreenFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.LightBlueFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.BlueFurnace.get()));
+        items.add(new ItemStack(RegisterBlocks.PurpleFurnace.get()));
 
         items.add(new ItemStack(RegisterBlocks.RedTrapDoor.get()));
         items.add(new ItemStack(RegisterBlocks.OrangeTrapDoor.get()));
@@ -107,6 +107,15 @@ public class TabMultiColoredBlocks extends ItemGroup {
         items.add(new ItemStack(RegisterBlocks.BlueFence.get()));
         items.add(new ItemStack(RegisterBlocks.PurpleFence.get()));
         items.add(new ItemStack(RegisterBlocks.BlackWhiteFence.get()));
+
+        items.add(new ItemStack(RegisterBlocks.RedWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.OrangeWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.YellowWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.GreenWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.LightBlueWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.BlueWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.PurpleWoodenFenceGate.get()));
+        items.add(new ItemStack(RegisterBlocks.BlackWhiteWoodenFenceGate.get()));
 
         items.add(new ItemStack(RegisterBlocks.RedPressurePlate.get()));
         items.add(new ItemStack(RegisterBlocks.OrangePressurePlate.get()));
