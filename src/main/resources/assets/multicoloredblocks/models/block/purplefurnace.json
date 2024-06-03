@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "multicoloredblocks:blocks/purplefurnacetop",
+        "front": "multicoloredblocks:blocks/purplefurnacefrontoff",
+        "side": "multicoloredblocks:blocks/purplefurnaceside"
+    }
+}

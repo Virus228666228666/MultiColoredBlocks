@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "ru/V5Minecraft/MultiColoredBlocks/mixin/FenceBlockAccessor": {
+      "material": "field_149764_J:Lnet/minecraft/block/material/Material;"
+    },
+    "ru/V5Minecraft/MultiColoredBlocks/mixin/FenceBlockMixin": {
+      "connectsTo(Lnet/minecraft/block/BlockState;ZLnet/minecraft/util/Direction;)Z": "Lnet/minecraft/block/FenceBlock;func_220111_a(Lnet/minecraft/block/BlockState;ZLnet/minecraft/util/Direction;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "ru/V5Minecraft/MultiColoredBlocks/mixin/FenceBlockAccessor": {
+        "material": "field_149764_J:Lnet/minecraft/block/material/Material;"
+      },
+      "ru/V5Minecraft/MultiColoredBlocks/mixin/FenceBlockMixin": {
+        "connectsTo(Lnet/minecraft/block/BlockState;ZLnet/minecraft/util/Direction;)Z": "Lnet/minecraft/block/FenceBlock;func_220111_a(Lnet/minecraft/block/BlockState;ZLnet/minecraft/util/Direction;)Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "ru.V5Minecraft.MultiColoredBlocks.mixin",
+  "refmap": "mixins.multicoloredblocks.refmap.json",
+  "mixins": [
+    "FenceBlockMixin",
+    "FenceBlockAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

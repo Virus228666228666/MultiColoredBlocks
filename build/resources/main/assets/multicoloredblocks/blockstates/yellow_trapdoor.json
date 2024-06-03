@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": { "model": "multicoloredblocks:block/yellowtrapdoorbottom" },
+        "facing=south,half=bottom,open=false": { "model": "multicoloredblocks:block/yellowtrapdoorbottom" },
+        "facing=east,half=bottom,open=false": { "model": "multicoloredblocks:block/yellowtrapdoorbottom" },
+        "facing=west,half=bottom,open=false": { "model": "multicoloredblocks:block/yellowtrapdoorbottom" },
+        "facing=north,half=top,open=false": { "model": "multicoloredblocks:block/yellowtrapdoortop" },
+        "facing=south,half=top,open=false": { "model": "multicoloredblocks:block/yellowtrapdoortop" },
+        "facing=east,half=top,open=false": { "model": "multicoloredblocks:block/yellowtrapdoortop" },
+        "facing=west,half=top,open=false": { "model": "multicoloredblocks:block/yellowtrapdoortop" },
+        "facing=north,half=bottom,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen" },
+        "facing=south,half=bottom,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 180 },
+        "facing=east,half=bottom,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 90 },
+        "facing=west,half=bottom,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 270 },
+        "facing=north,half=top,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen" },
+        "facing=south,half=top,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 180 },
+        "facing=east,half=top,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 90 },
+        "facing=west,half=top,open=true": { "model": "multicoloredblocks:block/yellowtrapdooropen", "y": 270 }
+    }
+}

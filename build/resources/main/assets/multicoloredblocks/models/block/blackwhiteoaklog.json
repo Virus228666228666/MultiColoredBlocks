@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "multicoloredblocks:blocks/blackwhiteoaklogtop",
+    "up": "multicoloredblocks:blocks/blackwhiteoaklogtop",
+    "north": "multicoloredblocks:blocks/blackwhiteoaklogside",
+    "east": "multicoloredblocks:blocks/blackwhiteoaklogside",
+    "south": "multicoloredblocks:blocks/blackwhiteoaklogside",
+    "west": "multicoloredblocks:blocks/blackwhiteoaklogside",
+    "particle": "multicoloredblocks:blocks/blackwhiteoaklogside"
+  }
+}

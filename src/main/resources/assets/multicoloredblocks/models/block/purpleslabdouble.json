@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "multicoloredblocks:blocks/purpleslabtop",
+        "side": "multicoloredblocks:blocks/purpleslabside"
+    }
+}

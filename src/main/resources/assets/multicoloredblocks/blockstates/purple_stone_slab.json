@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "multicoloredblocks:block/purpleslabhalf"
+        },
+        "type=double": {
+            "model": "multicoloredblocks:block/purpleslabdouble"
+        },
+        "type=top": {
+            "model": "multicoloredblocks:block/purpleslabupper"
+        }
+    }
+}

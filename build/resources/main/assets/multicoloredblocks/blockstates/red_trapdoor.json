@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": { "model": "multicoloredblocks:block/redtrapdoorbottom" },
+        "facing=south,half=bottom,open=false": { "model": "multicoloredblocks:block/redtrapdoorbottom" },
+        "facing=east,half=bottom,open=false": { "model": "multicoloredblocks:block/redtrapdoorbottom" },
+        "facing=west,half=bottom,open=false": { "model": "multicoloredblocks:block/redtrapdoorbottom" },
+        "facing=north,half=top,open=false": { "model": "multicoloredblocks:block/redtrapdoortop" },
+        "facing=south,half=top,open=false": { "model": "multicoloredblocks:block/redtrapdoortop" },
+        "facing=east,half=top,open=false": { "model": "multicoloredblocks:block/redtrapdoortop" },
+        "facing=west,half=top,open=false": { "model": "multicoloredblocks:block/redtrapdoortop" },
+        "facing=north,half=bottom,open=true": { "model": "multicoloredblocks:block/redtrapdooropen" },
+        "facing=south,half=bottom,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 180 },
+        "facing=east,half=bottom,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 90 },
+        "facing=west,half=bottom,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 270 },
+        "facing=north,half=top,open=true": { "model": "multicoloredblocks:block/redtrapdooropen" },
+        "facing=south,half=top,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 180 },
+        "facing=east,half=top,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 90 },
+        "facing=west,half=top,open=true": { "model": "multicoloredblocks:block/redtrapdooropen", "y": 270 }
+    }
+}

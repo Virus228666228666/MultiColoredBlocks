@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=east,lit=false": {
+            "model": "multicoloredblocks:block/bluefurnace",
+            "y": 90
+        },
+        "facing=east,lit=true": {
+            "model": "multicoloredblocks:block/bluefurnaceon",
+            "y": 90
+        },
+        "facing=north,lit=false": {
+            "model": "multicoloredblocks:block/bluefurnace"
+        },
+        "facing=north,lit=true": {
+            "model": "multicoloredblocks:block/bluefurnaceon"
+        },
+        "facing=south,lit=false": {
+            "model": "multicoloredblocks:block/bluefurnace",
+            "y": 180
+        },
+        "facing=south,lit=true": {
+            "model": "multicoloredblocks:block/bluefurnaceon",
+            "y": 180
+        },
+        "facing=west,lit=false": {
+            "model": "multicoloredblocks:block/bluefurnace",
+            "y": 270
+        },
+        "facing=west,lit=true": {
+            "model": "multicoloredblocks:block/bluefurnaceon",
+            "y": 270
+        }
+    }
+}

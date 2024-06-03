@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegate"
+    },
+    "facing=east,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegateopen"
+    },
+    "facing=east,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewall"
+    },
+    "facing=east,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewallopen"
+    },
+    "facing=north,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegate"
+    },
+    "facing=north,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegateopen"
+    },
+    "facing=north,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewall"
+    },
+    "facing=north,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewallopen"
+    },
+    "facing=south,in_wall=false,open=false": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegate"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegateopen"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewall"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewallopen"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegate"
+    },
+    "facing=west,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegateopen"
+    },
+    "facing=west,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewall"
+    },
+    "facing=west,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/lightbluewoodenfencegatewallopen"
+    }
+  }
+}

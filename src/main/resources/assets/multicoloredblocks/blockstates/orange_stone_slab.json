@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "multicoloredblocks:block/orangeslabhalf"
+        },
+        "type=double": {
+            "model": "multicoloredblocks:block/orangeslabdouble"
+        },
+        "type=top": {
+            "model": "multicoloredblocks:block/orangeslabupper"
+        }
+    }
+}

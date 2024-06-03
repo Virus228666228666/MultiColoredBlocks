@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/redwoodenfencegate"
+    },
+    "facing=east,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/redwoodenfencegateopen"
+    },
+    "facing=east,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/redwoodenfencegatewall"
+    },
+    "facing=east,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "multicoloredblocks:block/redwoodenfencegatewallopen"
+    },
+    "facing=north,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/redwoodenfencegate"
+    },
+    "facing=north,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/redwoodenfencegateopen"
+    },
+    "facing=north,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/redwoodenfencegatewall"
+    },
+    "facing=north,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "multicoloredblocks:block/redwoodenfencegatewallopen"
+    },
+    "facing=south,in_wall=false,open=false": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/redwoodenfencegate"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/redwoodenfencegateopen"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/redwoodenfencegatewall"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "uvlock": true,
+      "model": "multicoloredblocks:block/redwoodenfencegatewallopen"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/redwoodenfencegate"
+    },
+    "facing=west,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/redwoodenfencegateopen"
+    },
+    "facing=west,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/redwoodenfencegatewall"
+    },
+    "facing=west,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "multicoloredblocks:block/redwoodenfencegatewallopen"
+    }
+  }
+}

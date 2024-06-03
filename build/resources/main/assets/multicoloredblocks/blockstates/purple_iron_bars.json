@@ -1,0 +1,32 @@
+{
+    "multipart": [
+        {   "apply": { "model": "multicoloredblocks:block/purpleironbarspostends" }},
+        {   "when": { "north": false, "east": false, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarspost" }
+        },
+        {   "when": { "north": true, "east": false, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarscap" }
+        },
+        {   "when": { "north": false, "east": true, "south": false, "west": false },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarscap", "y": 90 }
+        },
+        {   "when": { "north": false, "east": false, "south": true, "west": false },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarscapalt" }
+        },
+        {   "when": { "north": false, "east": false, "south": false, "west": true },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarscapalt", "y": 90 }
+        },
+        {   "when": { "north": true },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarsside" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarsside", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarssidealt" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "multicoloredblocks:block/purpleironbarssidealt", "y": 90 }
+        }
+    ]
+}

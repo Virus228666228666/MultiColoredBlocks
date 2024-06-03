@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "multicoloredblocks:blocks/lightblueplanks",
+    "top": "multicoloredblocks:blocks/lightblueplanks",
+    "side": "multicoloredblocks:blocks/lightblueplanks"
+  }
+}
